@@ -25,7 +25,7 @@ local GameScripts = {
     },
     ["8459032065"] = {
         url = "https://api.jnkie.com/api/v1/luascripts/public/b06b77f97e01e436ee22c21b934186b38b7e916fe902ef77dc693c12e763c094/download"
-    }
+    },
     ["10032271327"] = {
         url = "https://api.jnkie.com/api/v1/luascripts/public/80c6f89b8751e91163b0807951537e91c13975fea0a5d1465b3a488ec178a8d7/download"
     }
