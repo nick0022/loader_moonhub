@@ -39,5 +39,5 @@ local detectedGame = GameScripts[tostring(game.GameId)]
 
 if detectedGame then
     loadstring(game:HttpGet(detectedGame.url))()
+    print("loading..")
 end
-print("loading..")
