@@ -31,7 +31,7 @@ local GameScripts = {
     },
     ["6409513651"] = { -- Anime Warriors 3
         url = "https://api.jnkie.com/api/v1/luascripts/public/587d1e30590d6e28b24703cf2c5d3820def784487103e0c787f470704b73b891/download"
-    }
+    },
     ["9797806474"] = { -- Anime Astral Simulator
        url = "https://api.jnkie.com/api/v1/luascripts/public/fb160fa38d20a9ad9bb3e6d8be051ce2c18a05d84182c8a43369c387f0684ec8/download"
     }
